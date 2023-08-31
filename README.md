@@ -1,6 +1,7 @@
 # ThincrsProject
 The 4 Challenges of the course 
 
+Intellij
 Projecto de administacion de inventario y compra
 
 Se utiliza Spring, Postgresql puerto:5432 , spring data JPA, Gradle, QueryMethods(opcional).
